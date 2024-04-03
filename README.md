@@ -11,7 +11,7 @@ yarn dev
 ```
 
 ### 3.在线预览
-[在线预览](https://minsion.github.io/apps/chat))
+[在线预览](https://minsion.github.io/react-admin-vite)))
 
 
 ### 4.项目预览图
