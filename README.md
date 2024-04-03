@@ -11,13 +11,13 @@ yarn dev
 ```
 
 ### 3.在线预览
-[https://minsion.github.io/react-admin-vite](https://minsion.github.io/react-admin-vite)
+[预览](https://minsion.github.io/react-admin-vite)
 
 
 ### 4.项目预览图
 ![preview1.png](./public/1.png)
 
 
-## 💕 感谢 Star
+### 4、 💕 感谢 Star
 小项目获取 star 不易，如果你喜欢这个项目的话，欢迎支持一个 star！
 
