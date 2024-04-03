@@ -4,10 +4,10 @@
 
 ```bash
 # 安装依赖
-yarn i
+npm  install
 
 # 启动服务
-yarn dev
+npm run start
 ```
 
 ### 3.在线预览
